@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Sets_Exercise1 {
+public class Sets_Ex1 {
   /**
    * Crie um conjunto contendo as cores do arco-íris e:
    * a. Exiba todas as cores uma abaixo da outra;
