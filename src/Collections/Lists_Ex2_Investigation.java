@@ -1,9 +1,10 @@
 package Collections;
+
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Ex2Investigation {
+public class Lists_Ex2_Investigation {
   public static void main(String[] args) {
     final List<String> questions = List.of(
       "Did you call the victim?",

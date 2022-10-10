@@ -1,4 +1,5 @@
 package Collections;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -11,7 +12,7 @@ Cat 2 = name: Simba, age: 6, color: white
 Cat 3 = name: Jon, age: 12, color: yellow
 */
 
-public class SortList {
+public class Lists_Sort {
   public static void main(String[] args) {
     List<Cat> myCats = new ArrayList<>(){{
       add(new Cat("Jon", 18, "black"));

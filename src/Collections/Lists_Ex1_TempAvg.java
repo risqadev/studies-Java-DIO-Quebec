@@ -1,9 +1,10 @@
 package Collections;
+
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Ex1TempAvg {
+public class Lists_Ex1_TempAvg {
   public static void main(String[] args) {
     final List<String> months = List.of("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
     final int n = 6;
